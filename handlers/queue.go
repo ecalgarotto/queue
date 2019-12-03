@@ -1,4 +1,4 @@
-package main
+package queueHandler
 
 func Enqueue(txt string) bool {
 	return true
