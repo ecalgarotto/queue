@@ -1,3 +1,3 @@
-package queueHandler
+package queuehandler
 
 func init() {}
