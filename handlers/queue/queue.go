@@ -1,4 +1,4 @@
-package queue
+package main
 
 func Enqueue(txt string) bool {
 	return true
