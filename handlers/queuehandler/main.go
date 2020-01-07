@@ -1,3 +1,0 @@
-package queuehandler
-
-func init() {}
